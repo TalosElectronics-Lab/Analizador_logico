@@ -1,3 +1,9 @@
+/*
+ * Programa para generar 4 señales de 100ms 
+ * para visualizarlas con el analizador logico 24Mhz 8CH
+ * Rafael Lozano Rolon
+ * soporte@taloselectronics.com
+ */
 const byte led_1 = 2;
 const byte led_2 = 3;
 const byte led_3 = 4;
